@@ -138,7 +138,7 @@ ol {
     line-height: 94%;
     text-align: left;
     text-transform: uppercase;
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 .content__accent {
@@ -150,6 +150,7 @@ ol {
     text-decoration: none;
     display: block;
     padding: 2px;
+    margin: 2px;
     cursor: pointer;
 }
 
